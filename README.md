@@ -54,7 +54,6 @@ The system workflow:
 The prediction categories are:
 
 * Genuine Medicine ✅
-* Needs Inspection ⚠️
 * Possible Counterfeit ❌
 
 ---
