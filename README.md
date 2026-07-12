@@ -8,13 +8,12 @@ MedVerify AI is a computer vision-based system that verifies medicine authentici
 
 # 👥 Team Details
 
-**Team Name:** __________
+**Team Name:** Byteblasters
 
 **Team Members:**
 
-1. ---
-2. ---
-3. ---
+1. Nakshatra S
+2. Navaneethan VK
 
 ---
 
