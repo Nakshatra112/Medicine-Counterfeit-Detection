@@ -55,7 +55,7 @@ The prediction categories are:
 
 * Genuine Medicine ✅
 * Possible Counterfeit ❌
-
+* Needs Inspection ⚠️
 ---
 
 # ✨ Features
@@ -239,6 +239,24 @@ Result: Possible Counterfeit ❌
 The system successfully differentiates between genuine and counterfeit medicine images based on visual similarity analysis.
 
 ---
+# 📸 Application Screenshots
+
+## Streamlit Interface
+
+![Streamlit Interface](images/Screenshot 2026-07-12 182358.png)
+
+
+## Genuine Medicine Detection
+
+![Genuine Result](images/Screenshot 2026-07-12 182556.png)
+
+
+## Counterfeit Medicine Detection
+
+![Counterfeit Result](images/Screenshot 2026-07-12 182637.png)
+
+
+
 
 # 🔮 Future Scope
 
