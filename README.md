@@ -243,18 +243,17 @@ The system successfully differentiates between genuine and counterfeit medicine 
 
 ## Streamlit Interface
 
-![Streamlit Interface](images/Screenshot 2026-07-12 182358.png)
+![Streamlit Interface](images/streamlit_interface.png)
 
 
 ## Genuine Medicine Detection
 
-![Genuine Result](images/Screenshot 2026-07-12 182556.png)
+![Genuine Result](images/genuine_result.png)
 
 
 ## Counterfeit Medicine Detection
 
-![Counterfeit Result](images/Screenshot 2026-07-12 182637.png)
-
+![Counterfeit Result](images/counterfeit_result.png)
 
 
 
