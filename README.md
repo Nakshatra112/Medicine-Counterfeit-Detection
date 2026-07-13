@@ -37,13 +37,15 @@ The main objectives of MedVerify AI are:
 
 ---
 
-## 📌 **Scope & Limitations**
+## 📌 Scope & Limitations
 
 This prototype has been trained and evaluated using Dolo 650 tablet packaging images only. Therefore, the current version can detect the authenticity of Dolo 650 medicine packages and is not intended for other medicine brands or products.
 
 The system serves as a Proof of Concept (PoC). Future work includes expanding the dataset to support multiple medicine brands and packaging types.
 
 # 💡 Proposed Solution
+
+Existing methods for detecting counterfeit medicines include manual inspection, laboratory testing, barcode verification, and QR code authentication. However, manual inspection requires expertise, laboratory testing is costly and time-consuming, and barcodes and QR codes can also be copied or replicated by counterfeiters, making them insufficient on their own for reliable detection.
 
 MedVerify AI uses a deep learning-based image verification approach.
 
