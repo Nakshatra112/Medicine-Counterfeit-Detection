@@ -8,7 +8,7 @@ MedVerify AI is a computer vision-based system that verifies medicine authentici
 
 # 👥 Team Details
 
-**Team Name:** Byteblasters
+**Team Name:** Dynamos
 
 **Team Members:**
 
@@ -36,6 +36,12 @@ The main objectives of MedVerify AI are:
 * To provide a quick and efficient preliminary medicine verification system.
 
 ---
+
+## 📌 **Scope & Limitations**
+
+This prototype has been trained and evaluated using Dolo 650 tablet packaging images only. Therefore, the current version can detect the authenticity of Dolo 650 medicine packages and is not intended for other medicine brands or products.
+
+The system serves as a Proof of Concept (PoC). Future work includes expanding the dataset to support multiple medicine brands and packaging types.
 
 # 💡 Proposed Solution
 
